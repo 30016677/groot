@@ -1,0 +1,16 @@
+.banner{
+    height: 180px;
+    background: rgb(150, 150, 150);
+}
+.stuber-icon{
+    margin-top: 15px;
+}
+.part-text{
+    height: 400px;
+    background: rgb(0, 150 , 185);
+}
+.part-img{
+    height: 400px;
+    /* background: rgb(55, 55, 55); */
+    
+}
